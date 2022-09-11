@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyuS17
 - 👀 I’m interested in iOS Devlopment
 - 🌱 I’m currently pursuing B.Tech(IT)
-- 💞️ I’m looking to collaborate on godd projects
+- 💞️ I’m looking to collaborate on good projects
 - 📫 How to reach me is use my github profile
 
 <!---
